@@ -1,0 +1,9 @@
+{
+  "title": "Advanced",
+  "pages": [
+    "architecture" ,
+    "composites" ,
+    "programmatic-api",
+    "reverse-proxy-conf"
+    ]
+}

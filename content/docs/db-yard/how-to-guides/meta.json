@@ -1,0 +1,9 @@
+{
+  "title": "How To Guides",
+  "pages": [
+    "production-deployment" ,
+    "sqlpage-apps",
+    "surveilr-rssds",
+    "watch-mode"
+    ]
+}
