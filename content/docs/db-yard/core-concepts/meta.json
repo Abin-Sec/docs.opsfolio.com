@@ -1,0 +1,10 @@
+{
+  "title": "Core Concepts",
+  "pages": [
+    "code-guidelines" ,
+    "ledger-system" ,
+    "port-allocation",
+    "proxy-prefixes",
+    "service-classification"
+    ]
+}

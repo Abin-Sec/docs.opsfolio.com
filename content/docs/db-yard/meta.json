@@ -1,0 +1,15 @@
+{
+  "title": "DB-yard",
+  "pages": [
+    "getting-started" ,
+    "core-concepts",
+    "how-to-guides",
+    "reference", 
+    "use-cases",
+    "advanced",
+    "contributing",
+    "support"
+    ],
+    "root": true,
+    "defaultOpen": false
+}

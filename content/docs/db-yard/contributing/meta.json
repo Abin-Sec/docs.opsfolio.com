@@ -1,0 +1,9 @@
+{
+  "title": "contributing",
+  "pages": [
+    "code-guidelines" ,
+    "development-setup" ,
+    "pull-requests",
+    "testing"
+    ]
+}
